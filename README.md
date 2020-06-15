@@ -21,7 +21,7 @@ C-
 
 > 1. プロジェクトを開いて、`プロジェクト` → `<プロジェクト名>のプロパティ`から、プロパティダイアログを開く
 > 1. 左上の構成を`すべての構成`にする
-> 1. 左側のリストから`構成プロパティ`→`C/C++`→`全般`を選ぶ。
+> 1. 左側のリストから`構成プロパティ`→`C/C++`→`全般`を選ぶ
 > 1. `追加のインクルードディレクトリ`の項目に`C:\ProgLibs\SDL\include;C:\ProgLibs\GLEW\include;C:\ProgLibs\SOIL\include;%(AdditionalIncludeDirectories)`と入力
 > 1. 左側のリストから`構成プロパティ`→`リンカー`→`全般`を選ぶ
 > 1. `追加のライブラリディレクトリ`の項目に`C:\ProgLibs\SDL\lib\win\x86;C:\ProgLibs\GLEW\lib\win\x86;C:\ProgLibs\SOIL\lib\win\x86;%(AdditionalLibraryDirectories)`と入力
