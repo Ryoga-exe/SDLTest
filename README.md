@@ -5,12 +5,12 @@
 
 ## ファイル構成
 ```
-C-
- |-ProgLibs
-  |-SDL
-  |-SOIL
-  |-GLEW
-  |-rapidjson
+C:-
+  |-ProgLibs
+   |-SDL
+   |-SOIL
+   |-GLEW
+   |-rapidjson
 ```
 中身は[ここ](https://github.com/gameprogcpp/code)の External ディレクトリをまんまコピー
 
